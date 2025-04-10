@@ -3,7 +3,7 @@
 **Fibonacci Sequence** is a simple web application that generates the Fibonacci sequence up to the _n<sup>th</sup>_ term entered by the user.
 The application is built using Flask and styled with Bootstrap to provide a clean and responsive user experience.
 
->Developed as a course requirement for **CC106 - Applications Development and Emerging Technologies**, by **Johaina A. Rubia**.
+>Developed as a course requirement for **AL101 - Algorithms and Complexity**, by **Johaina A. Rubia**.
 
 ---
 
